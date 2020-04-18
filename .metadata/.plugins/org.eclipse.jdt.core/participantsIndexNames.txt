@@ -1,0 +1,13 @@
+INDEX VERSION 1.131
+/Users/kosangwon/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3324546410.index
+/WebTest2/src
+/Users/kosangwon/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/123117705.index
+/mavenweb/src/main/resources
+/Users/kosangwon/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1389274574.index
+/javaproject2/src/main/resources
+/Users/kosangwon/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2359585441.index
+/JSPTest/src
+/Users/kosangwon/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/231377421.index
+/Simple/src/main/resources
+/Users/kosangwon/eclipse-workspace/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3117581661.index
+/WebTest/src

@@ -1,0 +1,4 @@
+browser-choice=0
+browsers=<?xml version\="1.0" encoding\="UTF-8"?>\n<web-browsers current\="1">\n<system/>\n<external location\="/Applications/Google Chrome.app" name\="chrome"/>\n</web-browsers>
+eclipse.preferences.version=1
+internalWebBrowserHistory=http\://localhost/WebTest2/test.jsp|*|http\://localhost/WebTest2/|*|http\://localhost/|*|http\://localhost\:80|*|http\://localhost\:8080/|*|http\://localhost\:8080/WebTest/|*|http\://localhost\:8080/mavenweb/|*|http\://localhost\:8080/mavenweb/index.jsp|*|
